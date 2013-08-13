@@ -1,0 +1,222 @@
+[21-Jan-2013 16:19:39] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:19:40] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:19:43] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:19:43] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:19:43] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:19:43] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:19:43] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:19:43] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:19:44] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:19:44] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:22:20] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:22:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:22:20] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:22:20] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:22:20] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:22:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:22:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:22:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:24:16] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:24:16] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:16] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:16] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:24:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:24:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 391
+[21-Jan-2013 16:24:29] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:29] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 538
+[21-Jan-2013 16:24:29] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:29] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:29] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:24:29] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 538
+[21-Jan-2013 16:24:29] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 538
+[21-Jan-2013 16:24:29] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 538
+[21-Jan-2013 16:30:26] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:30:26] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 536
+[21-Jan-2013 16:30:26] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:30:27] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 536
+[21-Jan-2013 16:30:27] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:30:27] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:30:27] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:30:27] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 536
+[21-Jan-2013 16:30:27] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 536
+[21-Jan-2013 16:30:27] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 536
+[21-Jan-2013 16:33:09] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:09] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:09] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:09] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:09] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:09] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:09] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:09] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:33] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:33] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:34] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:34] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:34] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:34] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:34] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:34] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 530
+[21-Jan-2013 16:33:41] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:33:41] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:41] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:41] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:33:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:33:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:33:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:34:53] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:34:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:34:53] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:34:53] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:34:53] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:34:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:34:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:34:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:35] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:35] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:35] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:35] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:35:39] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:35:39] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:36:38] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:36:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:36:39] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:36:39] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:36:40] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:36:40] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:36:40] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:36:40] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:36:41] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:36:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:37:36] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:37:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:37:36] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:37:36] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:38:53] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:38:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:38:53] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:38:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:36] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:36] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:37] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:40] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:40] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:40] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:40:41] PHP Warning:  include(/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:40:41] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:40:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:41:57] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:41:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:41:57] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:41:57] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:42:07] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:07] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:42:07] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:42:08] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:42:08] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:42:08] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:42:08] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:42:08] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:42:08] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:42:08] PHP Warning:  include(/functions/phpFlickr/phpFlickr.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/functions/phpFlickr/phpFlickr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 14
+[21-Jan-2013 16:42:08] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:42:08] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:43:48] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:43:48] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:43:48] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:43:48] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:43:48] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:43:48] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:43:48] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:43:48] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 608
+[21-Jan-2013 16:44:26] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:44:26] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 135
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 82
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 135
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 135
+[21-Jan-2013 16:44:27] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 135
+[21-Jan-2013 16:46:32] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:32] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:49] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:49] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:46:50] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:03] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:03] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:03] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:03] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 138
+[21-Jan-2013 16:50:04] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:55] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 10
+[21-Jan-2013 16:50:55] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 10
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 10
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/works.php on line 10
+[21-Jan-2013 16:50:56] PHP Fatal error:  Call to undefined function  add_action() in /home/smithcyr/public_html/wp-content/themes/portfolio/functions/media_integration.php on line 85

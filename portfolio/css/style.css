@@ -1,0 +1,757 @@
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+	height: 100%;}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+    background: black;
+    height: 100%;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection declarations have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ */
+
+img {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+****** GRID LAYOUT ******
+(Based on 1140 grid system, http://cssgrid.net)
+========================================================================== */
+
+
+/* Defaults work on desktop and down to iPad Landscape */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+border: 0;
+margin: 0;
+padding: 0;
+}
+
+.container {
+padding-left: 40px;
+padding-right: 40px;
+}
+
+.row {
+width: 100%;
+max-width: 1140px;
+min-width: 768px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+.extramargin-row {
+width: 80%;
+max-width: 1140px;
+min-width: 768px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+/* Row for frontpage to give tag lines bigger left/right margins */
+.frontpage-row {
+width: 70%;
+max-width: 1140px;
+min-width: 768px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+.sixcol, .fourcol, .threecol {
+margin-right: 3.8%;
+float: left;
+min-height: 1px;
+} 
+
+/* Four columns */
+.row .threecol, .frontpage-row .threecol {
+width: 22.05%;
+}
+
+/* Three columns */
+.row .fourcol {
+width: 30.75%;
+}
+
+/* Two columns */
+.row .sixcol {
+width: 48%;
+}
+
+/*
+.row .sixcol-extramargin {
+width: 45%;
+}
+*/
+
+.sixcol-extramargin {
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+}
+
+/* One column */
+.row .twelvecol {
+width: 100%;
+float: left;
+}
+
+.last {
+margin-right: 0px;
+}
+
+/* Images and objects flexible */
+img, object, embed {
+max-width: 100%;
+}
+
+img {
+	height: auto;
+}
+
+/* ==========================================================================
+****** OTHER LAYOUT ******
+========================================================================== */
+
+/*
+#home-container {
+	width: 100%;
+	min-height: 100%;
+  	position: relative;
+}
+*/
+
+/* Background image will be a slideshow */
+#home-bg {
+	min-height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	}
+	
+	
+/*
+#header-container {
+	width: 100%;
+	height: 450px;
+  position: relative;
+	border-bottom: 1px solid #7e7e7e;
+}
+
+#header-image {
+  z-index:-1;
+  position: absolute;
+  width: 100%;
+  height: 450px;
+	background-repeat:no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+*/
+	
+#homefooter {
+	position: fixed; 
+	right: 0px;
+	bottom:0px;}
+
+/* Header background will be a slideshow depending on which page it is on */	
+#header-container {
+	width: 100%;
+	height: 500px;
+	background: black url('../img/about1.jpg') no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 999;
+	-moz-box-shadow: 0px 0px 10px #353535;
+	-webkit-box-shadow: 0px 0px 10px #353535;
+	box-shadow: 0px 0px 10px #353535;
+	}
+	
+/* hard-coded full width container for images between text sections on About page */
+#bio-image-container {
+	width: 100%;
+	background: black url('../img/about-bio.jpg') no-repeat center center;
+	background-size: cover;
+	height: 400px;
+	position: relative;
+	z-index: 999;
+	-moz-box-shadow: 0px 0px 10px #353535;
+	-webkit-box-shadow: 0px 0px 10px #353535;
+	box-shadow: 0px 0px 10px #353535;}
+
+/* hard-coded full width container for images between text sections on About page */	
+#events-image-container {
+	width: 100%;
+	background: black url('../img/about-events.jpg') no-repeat center center;
+	background-size: cover;
+	height: 400px;
+	position: relative;
+	z-index: 999;
+	-moz-box-shadow: 0px 0px 10px #353535;
+	-webkit-box-shadow: 0px 0px 10px #353535;
+	box-shadow: 0px 0px 10px #353535;}
+	
+/* plain background for the list of images at the top of the works page */
+#works-container {
+	width: 100%;
+	background-color: black;
+	padding-bottom: 40px;
+	position: relative;
+	z-index: 999;
+	-moz-box-shadow: 0px 0px 10px #353535;
+	-webkit-box-shadow: 0px 0px 10px #353535;
+	box-shadow: 0px 0px 10px #353535;
+}
+
+#works-container img {
+	padding: 15px;
+}
+
+#works-container a:hover img {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=35);
+	opacity: .35;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	-ms-transition: All 0.5s ease;
+	transition: All 0.5s ease;
+	}
+
+/* slightly off-white container behind text */
+.main-container {
+	position: relative;
+	background-color: #fffffa;
+	padding: 10px 0px 50px 0px;
+}
+
+#mainfooter {
+background-color: #383838;
+padding: 20px 0px 20px 0;
+}
+
+.return-to-top {
+	text-align: right;}
+	
+.extra-padding {
+	padding-top: 40px;
+}
+
+/* ==========================================================================
+****** TEXT STYLES ******
+========================================================================== */
+
+/***********HOMEPAGE-SPECIFIC***********/
+.homepage h1 {
+	margin: 30px 0 5px 0;
+	text-align: center;
+	font-family: "Playfair Display", "BellMT", "Bell MT", "Georgia", serif;
+	font-weight: 400;
+	font-size: 45pt;
+	letter-spacing: 3px;
+	color: white;
+	text-shadow: 1px 1px 1px black;}
+
+/* Four descriptive words under title on homepage */
+.tagline {
+	padding: 2px 10px 2px 10px;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	text-align: center;
+	font-weight: 200;
+	font-size: 16pt;
+	color: #eeeeee;
+	letter-spacing: 2px;
+	text-shadow: 1.5px 1.5px 0.25px black;}
+	
+#homefooter p {
+	text-align: right;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-size: 10.5pt;
+	font-weight: 400;
+	color: #3e3e3e;}
+
+#homefooter a {
+	border-bottom: 1px dotted;
+	font-size: 10.5pt;
+	font-weight: 400;
+	color: #3e3e3e;
+	background: none;}
+
+#homefooter a:hover {
+	text-decoration: none;
+	border: none;
+	-webkit-transition: border 0.5s ease;
+  	-moz-transition: border 0.5s ease;
+  	-o-transition: border 0.5s ease;
+  	transition: border 0.5s ease;
+	background: none;}
+
+/***********END HOMEPAGE-SPECIFIC***********/
+
+header h1 {
+	margin: 0px;
+	text-align: right;
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 25pt;
+	letter-spacing: 2px;
+	color: rgb(37, 37, 37); /* The Fallback */
+    color: rgba(255, 255, 255, 0.8);
+	text-shadow: 1px 1px 6px black;}
+
+header h2 {
+	margin: -10px 0 0 0;
+	padding: 0px;
+	font-weight: 600;
+	text-align: right;
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 33pt;
+	text-shadow: 1px 1px 1px black;
+	color: #FFFFFA;
+}
+
+.main-container p {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-size: 14pt;
+	line-height: 21pt;
+	font-weight: 300;
+	padding: 0px 0px 15px 0px;
+	color: #565553;
+}
+	
+.main-container h2 {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	padding: 40px 0 10px 0;
+	font-size: 24pt;
+	font-weight: 400;
+	margin: 0;
+	color: #565553;
+}
+
+.main-container a {
+color: #107A82;
+text-decoration: none;}
+
+.main-container a:hover {
+border-bottom: 1px dotted;}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;}	
+	
+nav li {
+	float: left;
+	padding: 5px 0px;
+}
+
+.secondary-nav ul {
+	list-style: none;
+	padding: 20px 0px 20px 10px;
+	margin: 0;
+	}
+	
+.secondary-nav li {
+	margin-top: 10px;}
+	
+.secondary-nav li a {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	color: #FFFFFA;
+	text-align: center;
+	font-weight: 300;
+	font-size: 16pt;
+	text-decoration: none;
+	text-shadow: 1px 1px 0.5px black;
+	}
+	
+.secondary-nav li a:hover {
+	color: #b1b1b1;
+	}
+	
+nav li a {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	text-align: center;
+	font-weight: 400;
+	font-size: 14pt;
+	text-decoration: none;
+	margin: 0px 10px 0px 0px;
+	padding: 10px 5px 5px 5px;
+	color: #272727;
+	background-color: rgb(37, 37, 37); /* The Fallback */
+    background: rgba(255, 255, 255, 0.4);
+}
+	
+nav li a:hover {
+	text-decoration: none;
+	background-color: rgb(255, 255, 255); /* The Fallback */
+	background: rgba(255, 255, 255, 0.9);
+	-webkit-transition: background 0.5s ease;
+  -moz-transition: background 0.5s ease;
+  -o-transition: background 0.5s ease;
+  transition: background 0.5s ease;}
+  
+footer ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+footer li {
+	float: left;
+	padding: 0 10px 10px 0;
+}
+
+footer li a {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 15pt;
+	text-decoration: none;
+	color: #FFFFFA;
+	padding: 10px 5px 5px 5px;
+	background-color: rgb(37, 37, 37); /* The Fallback */
+    background: rgba(255, 255, 255, 0.4);
+}
+
+footer li a:hover {
+	color: #575757;
+	background-color: rgb(255, 255, 255); /* The Fallback */
+	background: rgba(255, 255, 255, 0.9);
+	-webkit-transition: background 0.5s ease;
+  	-moz-transition: background 0.5s ease;
+  	-o-transition: background 0.5s ease;
+  	transition: background 0.5s ease;
+}
+
+.clear {
+	clear: both;
+}
+
+footer a {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 11pt;
+	text-decoration: none;
+	color: #FFFFFA;
+	background-color: rgb(37, 37, 37); /* The Fallback */
+    background: rgba(255, 255, 255, 0.4);
+    padding: 0 2px;
+}
+
+footer a:hover {
+	color: #575757;
+	background-color: rgb(255, 255, 255); /* The Fallback */
+	background: rgba(255, 255, 255, 0.9);
+	-webkit-transition: background 0.5s ease;
+  	-moz-transition: background 0.5s ease;
+  	-o-transition: background 0.5s ease;
+  	transition: background 0.5s ease;
+}
+
+.credit {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 11pt;
+	text-decoration: none;
+	color: #FFFFFA;
+	text-align: right;
+}
+
+/**** Schedule of Events table ****/
+
+table {
+width: 100%;
+border-collapse: collapse;
+float: left;
+margin: 8px 0 18px 0;
+font-family: "Source Sans Pro", Helvetica, sans-serif;
+color: #565553;}
+
+td {
+	padding: 8px 15px 8px 15px;
+	font-size: 14pt;
+	font-weight: 300;
+	}
+	
+/* Zebra striping */
+tr:nth-of-type(even) { 
+  background: #f6f6f0; 
+}
+	
+th {
+	font-size: 17pt;
+	font-weight: 400;
+	padding: 5px 10px;
+	background-color: #e7e7d4;
+	color: #424242;
+	text-align: left;}
+	
+
+td, th {
+border: 1px solid #dfdfc7;
+}
+
+  
+/* ==========================================================================
+****** MEDIA QUERIES ******
+========================================================================== */
+
+/* iPad portrait */
+
+@media handheld, only screen and (max-width: 768px) {
+
+	body {
+	font-size: 16px;
+	-webkit-text-size-adjust: none;
+	}
+	
+	.row, body, .container {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+	
+	.frontpage-row {
+	width: 60%;
+	min-width: 0;
+	margin: 0 auto;
+	}
+	
+	.row .threecol, .row .fourcol, .row .sixcol, .row .twelvecol, .row, .sixcol-extramargin {
+	width: auto;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+	
+	.sixcol-extramargin {
+	-moz-column-count: 1;
+	-moz-column-gap: 30px;
+	-webkit-column-count: 1;
+	-webkit-column-gap: 30px;
+	column-count: 1;
+	column-gap: 30px;
+}
+	
+	.frontpage-row .threecol {
+	width: 44%;
+	float: left;
+	margin-left: 2%;
+	}
+	
+	.main-container p {
+	font-size: 15pt;
+	line-height: 22pt;
+	padding: 20px 0px 0px 0px;
+	}
+	
+	.main-container h2 {
+	font-size: 25pt;
+	}
+
+}
+
+/* iPhone landscape to portrait */
+@media only screen
+and (min-width: 320px)
+and (max-width: 480px) {
+	
+	.frontpage-row {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+	.frontpage-row .threecol {
+	width: auto;
+	text-align: center;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+	
+	.homepage h1 {
+	line-height: 43pt;
+	}
+	
+	.main-container p {
+	font-size: 12pt;
+	line-height: 15pt;
+	padding: 15px 0px 0px 0px;
+	}
+	
+	.main-container h2 {
+	font-size: 20pt;
+	}
+
+}
+
+
+
+/* ==========================================================================
+****** PRINT STYLES *****
+   Inlined to avoid required HTTP connection: h5bp.com/r
+========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
